@@ -1,0 +1,9 @@
+D:\DOCUMENT\C_sharp\CalculatorV1\bin\Debug\CalculatorV1.exe.config
+D:\DOCUMENT\C_sharp\CalculatorV1\bin\Debug\CalculatorV1.exe
+D:\DOCUMENT\C_sharp\CalculatorV1\bin\Debug\CalculatorV1.pdb
+D:\DOCUMENT\C_sharp\CalculatorV1\obj\Debug\CalculatorV1.csprojAssemblyReference.cache
+D:\DOCUMENT\C_sharp\CalculatorV1\obj\Debug\CalculatorV1.Form1.resources
+D:\DOCUMENT\C_sharp\CalculatorV1\obj\Debug\CalculatorV1.Properties.Resources.resources
+D:\DOCUMENT\C_sharp\CalculatorV1\obj\Debug\CalculatorV1.csproj.GenerateResource.cache
+D:\DOCUMENT\C_sharp\CalculatorV1\obj\Debug\CalculatorV1.exe
+D:\DOCUMENT\C_sharp\CalculatorV1\obj\Debug\CalculatorV1.pdb
